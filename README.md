@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0709-19&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Study
-📖 백준 알고리즘 푸는 중  
+📖 백준 알고리즘 푸는 중 https://www.acmicpc.net/user/sch030518  
 👬 스터디 기록 https://trello.com/b/2dlHEjrl
 
 ## Likelion at SCH
