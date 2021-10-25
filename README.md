@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seungjoon%20Lee&fontSize=90)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0709-19&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0709-19&theme=radical&locale=en&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0709-19&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+</center>
 
 ## Study
 📖 BOJ https://www.acmicpc.net/user/sch030518  
