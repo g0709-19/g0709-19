@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seungjoon%20Lee&fontSize=90)
-<center>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seungjoon%20Lee&fontSize=90)  
+  
+<br>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0709-19&theme=radical&locale=en&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0709-19&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
+<br>
 
 ## Study
 📖 BOJ https://www.acmicpc.net/user/sch030518  
@@ -13,3 +18,5 @@
 ## Likelion at SCH
 🦁 멋쟁이 사자처럼 8기 선생님  
 😎 HTML, CSS, Python, Django  
+
+</div>
